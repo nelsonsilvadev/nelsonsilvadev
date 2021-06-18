@@ -8,7 +8,7 @@ In a nutshell, I'm a ~~mostly~~ _self-taught_ **frontend developer** that _breat
 
 ### What I'm focusing on 💻
 
-**[Caffeine Algortihm](https://caffeinealgorithm.com/)**, a **development organization** that _loves_ **caffeine** and **algorithms** and that has as _main_ **mission** to _help the largest number of people to know the programming universe_, so that they can, **acquire new knowledge and evolve even more**.
+**[Caffeine Algortihm](https://caffeinealgorithm.com/)**, a **development community** that _loves_ **caffeine** and **algorithms** and that has as _main_ **mission** to _help the largest number of people to know the programming universe_, so that they can, **acquire new knowledge and evolve even more**.
 
 ### Feel free to follow 👌🏻
 
