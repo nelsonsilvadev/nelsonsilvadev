@@ -10,6 +10,10 @@ In a nutshell, I'm a ~~mostly~~ _self-taught_ **frontend developer** that _breat
 
 **[Caffeine Algorithm](https://caffeinealgorithm.com/)**, a **development community** that _loves_ **caffeine** and **algorithms** and that has as _main_ **mission** to _help the largest number of people to know the programming universe_, so that they can, **acquire new knowledge and evolve even more**.
 
+### What I'm building 🌙
+
+**[Auramenta](https://auramenta.com/)**, _the journal that reads between the lines_. You **write**, and an **on-device engine** reads it back, reflecting the patterns in your own words over time. It runs on _thousands of hand-written phrase rules_, tuned language by language across **eight languages** (_each one built by hand, not translated_). It's **private** by design: your words stay on your phone, **no accounts**, with an optional encrypted iCloud backup. **Three years** of nights and weekends, shipping on **iOS in August 2026** (_Android to follow in Q4 2026_).
+
 ### Feel free to follow 👌🏻
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nelsonsilvadev/) [![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/c/CaffeineAlgorithm)
+[![Auramenta Badge](https://img.shields.io/badge/-Auramenta-E11D48?style=flat-square)](https://auramenta.com/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nelsonsilvadev/) [![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square)](https://www.youtube.com/c/CaffeineAlgorithm)
