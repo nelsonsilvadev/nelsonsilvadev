@@ -12,7 +12,7 @@ In a nutshell, I'm a ~~mostly~~ _self-taught_ **frontend developer** that _breat
 
 ### What I'm building
 
-I'm the creator of [Auramenta](https://auramenta.com/), a private journal and mood tracker for iPhone. It helps you notice recurring themes in your writing, with text analysis that runs on your device. It supports six languages in eight regional variants.
+I'm the founder of [Auramenta](https://auramenta.com/), a private journal and mood tracker for iPhone. It helps you notice recurring themes in your writing, with text analysis that runs on your device. It supports six languages in eight regional variants.
 
 Writing, mood logs and the weekly word cloud are free. Auramenta+ adds detailed reviews, Month, Quarter and Year views, and optional encrypted iCloud backup. No account is needed. Android is planned for Q4 2026.
 
