@@ -10,9 +10,13 @@ In a nutshell, I'm a ~~mostly~~ _self-taught_ **frontend developer** that _breat
 
 **[Caffeine Algorithm](https://caffeinealgorithm.com/)**, a **development community** that _loves_ **caffeine** and **algorithms** and that has as _main_ **mission** to _help the largest number of people to know the programming universe_, so that they can, **acquire new knowledge and evolve even more**.
 
-### What I'm building 🌙
+### What I'm building
 
-**[Auramenta](https://auramenta.com/)**, _the journal that reads between the lines_. You **write**, and an **on-device engine** reads it back, reflecting the patterns in your own words over time. It runs on _thousands of hand-written phrase rules_, tuned language by language across **eight languages** (_each one built by hand, not translated_). It's **private** by design: your words stay on your phone, **no accounts**, with an optional encrypted iCloud backup. **Three years** of nights and weekends, shipping on **iOS in August 2026** (_Android to follow in Q4 2026_).
+I'm the creator of [Auramenta](https://auramenta.com/), a private journal and mood tracker for iPhone. It helps you notice recurring themes in your writing, with text analysis that runs on your device. It supports six languages in eight regional variants.
+
+Writing, mood logs and the weekly word cloud are free. Auramenta+ adds detailed reviews, Month, Quarter and Year views, and optional encrypted iCloud backup. No account is needed. Android is planned for Q4 2026.
+
+[Download Auramenta for iPhone](https://apps.apple.com/app/id6467466490)
 
 ### Feel free to follow 👌🏻
 
